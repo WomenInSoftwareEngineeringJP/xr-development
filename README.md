@@ -12,34 +12,32 @@ XR means Extended Reality, it refers to all real and virtual environments genera
 
 * [augmented-reality-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/augmented-reality-dev)
 
-    * Presentations, tutorials and sample code we are using to study Augmented reality.
+    * Tutorials and sample code we are using to study Augmented reality.
 
 * [mixed-reality-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/mixed-reality-dev)
 
-    * Presentations, tutorials and sample code we are using to study Mixed reality.
+    * Tutorials and sample code we are using to study Mixed reality.
 
 * [resources](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/resources) ->**Start here if you are new to XR**
 
     * Information about the courses and tutorials we are following in the Meetup session. 
     * Presentations and useful articles.
+    * General project guidelines and documentation.
 
 * [unity-3d-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/unity-3d-dev)
+    
+    * Unity games tutorials
 
 * [virtual-reality-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/virtual-reality-dev)
 
-## Suggested courses to learn about XR
-
-### Beginner resources:
-* [Introduction to XR: VR, AR, and MR](https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations) by Unity Learn.
+    * Tutorials and sample code we are using to study Virtual reality.
 
 
-## Unity environment setup:
-* [Publishing for Android](https://learn.unity.com/tutorial/publishing-for-android)
 
-
-# CODE OF CONDUCT
+# Code of Conduct
 
 WWCode strives to be an inclusive and safe space. We are a multilingual group, and we welcome anyone interested in the main purpose of the event regardless of nationality, language, gender, or skill level.
 If we identify any form of harassment or inappropriate behavior that does not comply with the event purpose, we will ask you to leave.
+
 Please read our [Code of Conduct](https://www.womenwhocode.com/codeofconduct)
 
