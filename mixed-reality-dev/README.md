@@ -1,11 +1,8 @@
-# XRDevelopment
-Test for Open Source Unity Proyect
+# Mixed Reality projects
 
-## Mixed Reality projects
-This repo is under development
-There is more to come, stay tuned !
+In this repo, you will find MR projects that we are working on during the study sessions. 
 
-## Unity version
-+ Unity 2020.2.1f1   
-+ XR Plugin Management 4.0.1
-+ XR Interaction Toolkit 1.0.0-pre.2 (package manager)
+Mixed Reality is perhaps one of the XR technologies that will have a greater impact in the comming future, but the technology is not easily accessible yet. However, we will be exploring "budget friendly" alternatives while the technology evolves and becomes more accesible.
+
+We are in an early stage of the WWC XR, so you can expect that we will be adding resources moving forward, so stay tunned !
+

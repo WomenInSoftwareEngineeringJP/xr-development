@@ -1,13 +1,9 @@
-# XRDevelopment
-Test for Open Source Unity Proyect
+# Unity 3D projects
 
-## Unity 3D projects
-Unity is a fundamental piece to develop XR applications.
+Unity is a fundamental technology to develop XR applications.
+In this repo, you will find 3D games and proyects to practice C# and Unity
 
-In this reapo, you will find 3D games and proyects to practice C# and Unity
-
-This repo is under development
-There is more to come, stay tuned !
+We are in an early stage of the WWC XR, so you can expect that we will be adding resources moving forward, so stay tunned !
 
 ## Unity version
 + Unity 2020.2.1f1   
