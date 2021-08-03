@@ -12,6 +12,8 @@ You will find here common resources for the XR projects such as assets, audio, g
 
 * [Introduction to XR: VR, AR, and MR](https://www.coursera.org/learn/xr-introduction). Free resources, paid certificate.
 
+* [A-Frame School tutorial](https://aframe.io/aframe-school/#/). Free.
+
 * [Learn A-Frame and Get Ready for WebVR](https://www.udemy.com/course/learn-a-frame-and-get-ready-for-webvr/) Paid. -> Keep an eye when it is on sale.
 
 * [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar). Free resources, paid certificate.
