@@ -1,7 +1,7 @@
 # Augmented Reality Projects
 
 In this repo, you will find AR projects that we are working on during the study sessions. 
-We are in an early stage of the WWC XR, so you can expect that we will be adding resources moving forward, so Stay tunned !
+We are in the early stage of the Women Who Code XR group, so you can expect that we will be adding resources moving forward. Stay tunned !
 
 
 
