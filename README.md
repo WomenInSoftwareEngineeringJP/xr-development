@@ -10,25 +10,25 @@ XR means Extended Reality, it refers to all real and virtual environments genera
 
 ## What you'll find in this repository:
 
-* [augmented-reality-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/augmented-reality-dev)
+* [augmented-reality-dev](https://github.com/WWCodeTokyo/xr-development/tree/main/augmented-reality-dev)
 
     * Tutorials and sample code we are using to study Augmented reality.
 
-* [mixed-reality-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/mixed-reality-dev)
+* [mixed-reality-dev](https://github.com/WWCodeTokyo/xr-development/tree/main/mixed-reality-dev)
 
     * Tutorials and sample code we are using to study Mixed reality.
 
-* [resources](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/resources) ->**Start here if you are new to XR**
+* [resources](https://github.com/WWCodeTokyo/xr-development/tree/main/resources) ->**Start here if you are new to XR**
 
     * Information about the courses and tutorials we are following in the Meetup session. 
     * Presentations and useful articles.
     * General project guidelines and documentation.
 
-* [unity-3d-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/unity-3d-dev)
+* [unity-3d-dev](https://github.com/WWCodeTokyo/xr-development/tree/main/unity-3d-dev)
     
-    * Unity games tutorials
+    * Unity games tutorials and 3D animations. The practice is helpful to get familiar with Unity and later on transfer this knowledge to XR applications.
 
-* [virtual-reality-dev](https://github.com/MariaAmariya/XRDevelopment/tree/ft-structure/virtual-reality-dev)
+* [virtual-reality-dev](https://github.com/WWCodeTokyo/xr-development/tree/main/virtual-reality-dev)
 
     * Tutorials and sample code we are using to study Virtual reality.
 
