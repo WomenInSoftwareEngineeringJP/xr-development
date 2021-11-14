@@ -48,3 +48,7 @@ This course is a good introduction for beginners to AR and Google ARCore fundame
 * [Build 15 Augmented Reality (AR) apps with Unity & Vuforia](https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/)
 This course is a good option to get quickly a practical experience of building Apps with Vuforia and Unity. Basic knowledge of Unity is recommended, since it doesn't go too deep in explaining Unity fundamental concepts. The course is paid, but it is a good option to get it when it is on discount on Udemy plataform.
 
+
+### Community projects
+
+We will share here projects from our WWCode Tokyo XR community, stay tunned!
