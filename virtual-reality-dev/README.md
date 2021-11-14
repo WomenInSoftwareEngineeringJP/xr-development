@@ -1,8 +1,8 @@
 # Virtual Reality projects
 
-In this repo, you will find VR projects that we are working on during the study sessions. 
+In this repo, you will find tutorials and VR projects that we are working on during the study sessions. 
 
-We are in an early stage of the WWC XR, so you can expect that we will be adding resources moving forward, so Stay tunned !
+We are in an early stage of the WWCode Tokyo XR, we will be adding resources moving forward, so Stay tunned !
 
 
 ## Frameworks
@@ -12,7 +12,9 @@ For people that come from Front-end background, the following framework is a gre
 * [A-Frame](https://aframe.io/)
 A web framework for building virtual reality (VR) experiences. A-Frame is based on top of HTML, making it simple to get started. The core is a powerful entity-component framework that provides a declarative, extensible, and composable structure to [three.js](https://threejs.org/).
 
+## Community projects
 
+We will share here projects from our WWCode Tokyo XR community, stay tunned!
 
 ## Unity version we use in our projects
 + Unity 2020.2.1f1   
