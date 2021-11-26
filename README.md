@@ -32,6 +32,9 @@ XR means Extended Reality, it refers to all real and virtual environments genera
 
     * Tutorials and projects we are using to study Virtual reality.
 
+* [Meetup Wiki pages](https://github.com/WWCodeTokyo/xr-development/wiki)
+
+    * Summary of the Meetup sessions and discussion topics
 
 
 # Code of Conduct
