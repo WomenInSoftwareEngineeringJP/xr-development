@@ -30,6 +30,8 @@ The suggested resources are based on the topics that our Meetup participants are
 
 * [Introduction to VR in Unity - Unity XR toolkit](https://www.youtube.com/playlist?list=PLrk7hDwk64-a_gf7mBBduQb3PEBYnG4fU)
 
+* [Unity Learn - VR Beginner: The Escape Room](https://learn.unity.com/project/vr-beginner-the-escape-room?tab=overview&_ga=2.129917708.1200005991.1638532981-1565629000.1606535964)
+
 * [Unity Learn - Create with VR](https://learn.unity.com/course/create-with-vr)
 
 * [Unity Learn - Design, Develop, and Deploy for VR](https://learn.unity.com/course/oculus-vr)
