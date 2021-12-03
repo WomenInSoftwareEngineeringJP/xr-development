@@ -10,7 +10,7 @@ We are in an early stage of the WWCode Tokyo XR, we will be adding resources mov
 For people that come from Front-end background, the following framework is a great way to start getting familiar with VR development.
 
 * [A-Frame](https://aframe.io/)
-A web framework for building virtual reality (VR) experiences. A-Frame is based on top of HTML, making it simple to get started. The core is a powerful entity-component framework that provides a declarative, extensible, and composable structure to [three.js](https://threejs.org/). This framework is highly recommended for those who have an frontend developer background and wants to explore a simple VR development enviroment.
+A web framework for building virtual reality (VR) experiences. A-Frame is based on top of HTML, making it simple to get started. The core is a powerful entity-component framework that provides a declarative, extensible, and composable structure to [three.js](https://threejs.org/). This framework is highly recommended for those who have a strong frontend developer background and wants to explore a simple VR development enviroment.
 
 * [Google VR SDK](https://developers.google.com/cardboard/develop)
 A SDK avaible for IOS, Android and Unity development environment, that alows to turn a smartphone into a VR headset plataform. Through an smartphone and headset (Daydream or Cardboard) it would be possible display 3D scenes and interact with 3D elements by detecting when the user presses the viewer button.
