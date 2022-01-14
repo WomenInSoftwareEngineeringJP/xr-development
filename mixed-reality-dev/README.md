@@ -16,8 +16,11 @@ Mixed Reality is perhaps one of the XR technologies that will have a greater imp
 
 ## Inspirational content:
 
+* [Microsoft Reactor series - Path into XR](https://www.youtube.com/watch?v=5A_QnUEeDgs)
+
 * [So you want to switch to a career in Mixed Reality!](https://docs.microsoft.com/en-us/events/ignite-mar-2021/azure/learning-zone/lrn237/) 
 
+* [Microsoft ]
 
 We are in an early stage of the WWCode Tokyo XR and we will be adding more resources as we move into Mixed Reality during the study sessions.
 
