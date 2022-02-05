@@ -12,6 +12,8 @@ This course is for anyone new to Unity
 
 * [Unity - Junior Programmer](https://learn.unity.com/pathway/junior-programmer/?tab=pathway_map)
 
+* [Unity - Creative core pathway](https://learn.unity.com/pathway/creative-core)
+
 * [raywenderlich.com - Introduction to Unity ](https://www.raywenderlich.com/unity/paths/learn)
 
 
