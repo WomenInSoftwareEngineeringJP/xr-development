@@ -5,10 +5,19 @@ You will find here common resources for the XR projects such as assets, audio, g
 
 ## Courses and resources that our members are following in the Meetup.
 
+### Not sure where to start:
+Check out this inspirational content and overview of programming languages, engine options, device options, 
+and general advice.
 
-### Beginners:
+* [Journey into XR Development](https://www.youtube.com/watch?v=XNX3gQWOdA0&list=PLlrxD0HtieHg7iAQdchuIls-ATakL9jMZ&index=2)
 
-* [Introduction to XR: VR, AR, and MR](https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations). Free in Unity Learn.
+* [Plan and Design your XR App](https://www.youtube.com/watch?v=67NXMD7tf8s&list=PLlrxD0HtieHg7iAQdchuIls-ATakL9jMZ&index=2)
+
+* [So you want to switch to a career in Mixed Reality!](https://docs.microsoft.com/en-us/events/ignite-mar-2021/azure/learning-zone/lrn237/) 
+
+### Beginners courses:
+
+* [Introduction to XR: VR, AR, and MR](https://learn.unity.com/course/introduction-to-xr-vr-ar-and-mr-foundations). Free in Unity Learn. This course is suggested to get the basic concepts for XR, beware that the practical examples might be outdated.
 
 * [Introduction to XR: VR, AR, and MR](https://www.coursera.org/learn/xr-introduction). Free resources, paid certificate.
 
@@ -22,8 +31,6 @@ You will find here common resources for the XR projects such as assets, audio, g
 
 
 ### Other popular courses and resources:
-
-* [So you want to switch to a career in Mixed Reality!](https://docs.microsoft.com/en-us/events/ignite-mar-2021/azure/learning-zone/lrn237/) 
 
 * [Unity Learn](https://learn.unity.com/). Free resources.
 

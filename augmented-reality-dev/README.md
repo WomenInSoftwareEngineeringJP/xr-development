@@ -1,7 +1,7 @@
 # Augmented Reality Resources
 
 In this repo, you will find AR resources that we are using during the study sessions. 
-We are in an early stage of the Women Who Code XR group, and we will be adding more resources and sample projects in the future. Stay tunned !
+We will be adding more resources and sample projects in the future. Stay tunned !
 
 
 ## Popular Frameworks
@@ -28,6 +28,8 @@ The suggested resources are based on the topics that our Meetup participants are
 
 ### Free resources
 
+* [Tools overview - Low-Code/No-Code Platform for AR](https://www.youtube.com/watch?v=nHx6A0jEhGY&t=11s)
+
 * [raywenderlich.com - Augmented reality and ARKit Tutorial](https://www.raywenderlich.com/378-augmented-reality-and-arkit-tutorial)
 
 * [raywenderlich.com - AR Foundation in Unity: Getting Started](https://www.raywenderlich.com/14808876-ar-foundation-in-unity-getting-started)
@@ -39,7 +41,6 @@ GitHub repo with nice sample projects.
 
 * [ARCore - Developer Tutorial](https://developers.google.com/ar/develop)
 
-
 ### Paid resources
 
 * [Coursera - Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar)
@@ -48,6 +49,7 @@ This course is a good introduction for beginners to AR and Google ARCore fundame
 * [Build 15 Augmented Reality (AR) apps with Unity & Vuforia](https://www.udemy.com/course/develop-augmented-reality-book-ar-business-card-with-unity/)
 This course is a good option to get quickly a practical experience of building Apps with Vuforia and Unity. Basic knowledge of Unity is recommended, since it doesn't go too deep in explaining Unity fundamental concepts. The course is paid, but it is a good option to get it when it is on discount on Udemy plataform.
 
+* [Augmented Human: How Technology Is Shaping the New Reality](https://www.amazon.com/Augmented-Human-Technology-Shaping-Reality/dp/1491928328). An interesting book that introduces AR concepts, technologies, how it has evolved, and what are some future opportunities.
 
 ### Community projects
 
