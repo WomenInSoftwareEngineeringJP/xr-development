@@ -14,7 +14,7 @@ This course is for anyone new to Unity
 
 * [Unity - Creative core pathway](https://learn.unity.com/pathway/creative-core)
 
-* [raywenderlich.com - Introduction to Unity ](https://www.raywenderlich.com/unity/paths/learn)
+* [GameDevBeginner - Blog and How-to articles](https://gamedevbeginner.com/)
 
 
 We will be adding more resources from the community as we move on during the study sessions. 
