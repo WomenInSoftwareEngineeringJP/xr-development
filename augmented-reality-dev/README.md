@@ -28,6 +28,8 @@ The suggested resources are based on the topics that our Meetup participants are
 
 ### Free resources
 
+* [Unity Pathway - Mobile AR Development](https://learn.unity.com/pathway/mobile-ar-development)
+
 * [Tools overview - Low-Code/No-Code Platform for AR](https://www.youtube.com/watch?v=nHx6A0jEhGY&t=11s)
 
 * [raywenderlich.com - Augmented reality and ARKit Tutorial](https://www.raywenderlich.com/378-augmented-reality-and-arkit-tutorial)
